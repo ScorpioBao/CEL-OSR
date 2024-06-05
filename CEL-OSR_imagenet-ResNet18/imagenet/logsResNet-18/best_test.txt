@@ -1,1 +1,0 @@
-epoch:11, best test accuracy:87.4
