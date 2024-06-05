@@ -1,5 +1,5 @@
 ## Causal Evidence Learning for Trusted Open Set Recognition under Covariate Shift
-![image](CEL-OSR.png)
+![本地路径](CEL-OSR.png)
 ## Datasets
 #### The datasets (Digits, CIFARs, CMNIST) used in our paper can be found in the link: https://figshare.com/articles/figure/data_zip/22140566
 #### Tiny-ImageNet: https://www.kaggle.com/c/tiny-imagenet/data
